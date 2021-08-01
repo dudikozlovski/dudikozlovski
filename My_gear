@@ -1,0 +1,34 @@
+Hassio running on raspberry pi4 with 4giga ram.
+Wifi switchs:
+Tuya: for lights and curtain
+8 curtain switches 
+14 lights switches 1/2/3 gang
+
+Sonoff: for temperature and humidity and bath heater
+4 sonoff th16 for bath heater with temp sensor
+1 sonoff th16 with ds18b20 sensor for boiler temp
+1 sonoff th16 for garage lights
+
+Shelly: 
+1 Shelly 2.5 garden automatic roof
+3 Shelly 1 for lights 
+2 Shelly pm1 for laundry machines with power measuring
+
+Xiaomi:
+2 ZigBee and Bluetooth mesh hub
+7 aqra motion sensor
+18 aqra door/window sensor
+1 roborock s5 max vacuum cleaner
+1 dome camera 1080 with rstp custom firmware
+2 outdoor camera 1080 with rstp custom firmware
+1 mi box 4
+
+Reolink:
+2 outdoor camera
+
+Esp:
+3 esp32 custom cameras
+4 esp8266 with wled firmware attached to w2812 Led stripes
+
+Mesh:
+2 tenda mw6 mesh
